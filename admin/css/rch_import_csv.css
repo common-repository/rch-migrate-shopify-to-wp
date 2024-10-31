@@ -1,0 +1,10 @@
+.import-shopify-block .icustomers-block,
+.import-shopify-block .iorders-block{
+    margin-top: 20px;
+}
+
+.import-shopify-block .icustomers-block .icustomers-table label,
+.import-shopify-block .iorders-block .iorders-table label{
+    font-size: 14px;
+    font-weight: 700;
+}
